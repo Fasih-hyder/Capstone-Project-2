@@ -1,0 +1,9 @@
+.naVmargin{
+    margin-left: 350px !important;
+  }
+
+  @media (max-width:768px) {
+    .nav1{
+        margin-left: 0px !important; 
+    }
+  }

@@ -1,0 +1,21 @@
+.btn-color{
+    border-radius: 4px;
+    color: #4A60A1;
+    
+}
+.border{
+    border-radius: 6.424px;
+background: var(--gray-white, #FFF);
+box-shadow: 0px 25.69697px 72.80807px 0px rgba(59, 77, 129, 0.08);
+}
+
+.color{
+    color: #4A60A1;
+    
+}
+
+.dip{
+    border-radius: 8px;
+    
+
+}

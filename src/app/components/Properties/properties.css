@@ -1,0 +1,18 @@
+.bg-color{
+    background-color:#EDEFF6 ;
+    
+}
+
+.font-color{
+    color: Gray;
+}
+
+.bgcol{
+    border-radius: 4px;
+background-color:  #FFF;
+box-shadow: 0px 24px 68px 0px rgba(59, 77, 129, 0.08);
+}
+
+.fontcol{
+ color: #4A60A1;
+}

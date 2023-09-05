@@ -1,0 +1,21 @@
+.font-color{
+    color: Gray;
+}
+.bg-footer{
+    background: url('../../assests/contact-us.svg') no-repeat center;
+    background-size: cover;
+    height: 70vh;
+}
+@media (max-width:768px) {
+
+    
+  
+    .image{
+        height:500px !important ;
+    }
+    }
+
+   .images{
+    padding:0 0 0 100px;
+   } 
+      

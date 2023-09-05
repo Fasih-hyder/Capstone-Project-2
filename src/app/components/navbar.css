@@ -1,0 +1,94 @@
+.first-nav{
+width: 100%;
+}
+
+.naVmargin{
+  margin-left: 300px !important;
+}
+.bodrbotm{
+border-bottom: 1px solid white !important;
+}
+.bg-image{
+  background:url(../assests/Rectangle\ 6.svg)  no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+.bg-color{
+  background-color: #fff;
+  padding: 2rem 0;
+  width: 100%;
+  box-shadow: 5px 5px 3px -5px;
+}
+
+.position-card{
+position: absolute;
+top: 38rem;
+left: 44rem;
+width: 75%;
+
+}
+
+.border-card{
+  border-left: 1px solid black;
+}
+
+.btn1{
+  background-color: #4A60A1;
+  border: none;
+  padding: 5px 20px;
+  color: white;
+}
+
+
+
+@media (max-width:768px) {
+  .position-card{
+    position: absolute;
+    top: 35rem;
+    left: 13rem;
+    width: 80%;
+    }
+    .card-p{
+      padding: 2rem 0 0 0;
+    }
+  .faltoDiv{
+    display: none !important;
+  }
+  .navbar1{
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    
+  }
+
+  .imges{
+ 
+    margin-bottom: -50px !important;
+  }
+
+  .bodrbotm{
+    border: none !important;
+  }
+  .heading{
+    margin-left: 30px !important;
+    margin-bottom: 10px !important;
+    font-size: 20px !important;
+
+    
+  }
+  .logoH{
+    margin-left: -55px !important;
+    margin-top: -70px !important;
+    
+  }
+  .btntg{
+    margin-left: 150px !important;
+    margin-top: -50px !important;
+  }
+  .items{
+    
+    margin-left: 0px !important;
+  
+  }
+
+  }
+    
