@@ -34,3 +34,4 @@ export const Nav1page2 = () => {
         </div>
     )
 }
+export default NavBar1Page2
