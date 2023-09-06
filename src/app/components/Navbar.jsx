@@ -93,8 +93,8 @@ const Navbar = () => {
           </p>
         </div>
         <div className='navbar1'>
-        <div className=' position-absolute bottom-0 start-50 translate-middle-x mb-5 '>
-          <Image src={rent} className='img-fluid ' width={150} />
+        <div className=' position-absolute bottom-0 start-50 translate-middle-x  '>
+          <Image src={rent} className='img-fluid  ' width={150} />
         </div>
         </div>
         </div>
