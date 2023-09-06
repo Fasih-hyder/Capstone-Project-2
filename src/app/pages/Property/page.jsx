@@ -1,4 +1,4 @@
-import Nav1page2  from '@/app/SeacondComponents/NavBar1Page2/Page1';
+import {Nav1page2}  from '@/app/SeacondComponents/NavBar1Page2/Page1';
 import Nav2Page2 from '@/app/SeacondComponents/Navbar2Page2/page2';
 import AllHouses from '@/app/SeacondComponents/Renthouses/AllHouses.jsx';
 import Footer from '@/app/SeacondComponents/SeacondFooter/Footer.jsx';
