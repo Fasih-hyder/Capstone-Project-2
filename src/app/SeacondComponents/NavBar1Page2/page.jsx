@@ -7,7 +7,6 @@ import imgnav3 from "../../assests/Network.svg"
 import imgnav4 from "../../assests/LinkedIn.svg"
 import imgnav5 from "../../assests/Instagram.svg"
 import imgnav6 from "../../assests/Be.svg"
-import imgnav7 from "../../assests/line.svg"
 import imgnav8 from "../../assests/Frame 81.svg"
 
 export const Nav1page2 = () => {
@@ -27,7 +26,6 @@ export const Nav1page2 = () => {
                             <Image src={imgnav4} />
                             <Image src={imgnav5} />
                             <Image src={imgnav6} />
-                            <Image src={imgnav7} className='ms-4' />
                             <Image src={imgnav8} className='ms-5'/>
                         </div>
                     </div>
