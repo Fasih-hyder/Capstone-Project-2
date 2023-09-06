@@ -45,6 +45,9 @@ width: 75%;
   .btnmargin{
  margin-bottom: 150px !important;
   }
+  .dnone {
+ display: none !important;
+  }
   .position-card{
     position: absolute;
     top: 35rem;
