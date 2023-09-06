@@ -12,6 +12,7 @@ import Contact from '../../app/assests/Frame 81.svg'
 import rent from '../../app/assests/SaleRent.svg'
 import icon from '../../app/assests/down.svg'
 import Image from 'next/image'
+import Script from 'next/script'
 import Link from 'next/link';
 
 const Navbar = () => {
@@ -133,9 +134,7 @@ const Navbar = () => {
           </div>
         </div>
       </div>
-        
-
-      
+      <Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"/>
       <br /> <br /><br />
     </div>
 
