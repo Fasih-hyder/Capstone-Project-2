@@ -51,7 +51,7 @@ const Navbar = () => {
               <span class=" "><Image src={toogle} className='img-fluid'/></span>
             </button>
             <div class="collapse navbar-collapse naVmargin items " id="navbarSupportedContent">
-              <ul class="navbar-nav   mt-3 gap-3">
+              <ul class="navbar-nav   mt-3 gap-2">
                 <li class="nav-item">
                   <a class="nav-link active text-white " aria-current="page" href="#">Home</a>
                 </li>
