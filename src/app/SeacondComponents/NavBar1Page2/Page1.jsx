@@ -9,7 +9,7 @@ import imgnav5 from "../../assests/Instagram.svg"
 import imgnav6 from "../../assests/Be.svg"
 import imgnav8 from "../../assests/Frame 81.svg"
 
-export const Nav1page2 = () => {
+export const NavBar1Page2 = () => {
     return (
         <div className='bg'>
             <div className='container '>
