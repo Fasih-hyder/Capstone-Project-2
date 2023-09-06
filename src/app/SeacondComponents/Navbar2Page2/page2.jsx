@@ -26,7 +26,7 @@ function Nav2Page2() {
               <div class="collapse navbar-collapse naVmargin nav1 " id="navbarSupportedContent">
               <ul class="navbar-nav  ">
                 <li class="nav-item">
-                  <a class="nav-link active  " aria-current="page" href="./pages/home">Home</a>
+                  <a class="nav-link active  " aria-current="page" href="./home">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link " href="#">ABOUT US</a>
