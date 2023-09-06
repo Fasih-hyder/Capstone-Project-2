@@ -94,11 +94,8 @@ const Navbar = () => {
         </div>
         <div className='navbar1'>
         <div className=' position-absolute bottom-0 start-50 translate-middle-x mb-5 '>
-          <Image src={rent} className='img-fluid mb-4' width={150} />
+          <Image src={rent} className='img-fluid ' width={150} />
         </div>
-        {/* <div className=' bar position-absolute top-100 start-50 translate-middle'>
-          <Image src={Search} className='img-fluid mb-5 imges' />
-        </div> */}
         </div>
         </div>
         <div className="container position-card translate-middle-x">
