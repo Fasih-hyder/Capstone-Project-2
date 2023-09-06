@@ -22,7 +22,7 @@ function houses() {
         <div className=''></div>
         <div className=' position-relative images '>
           <Image src={house1}  className='img-fluid px-2 ' />
-          <button class="btn border-secondary-subtle text-white ms-5  position-absolute top-50 start-50 translate-middle"
+          <button class="btn border-secondary-subtle text-white ms-5  position-absolute top-50 start-50 translate-middle btans"
            type="submit">View Detail</button>
           </div>
         <div className=''><Image src={house2}  className='img-fluid px-2' /></div>
