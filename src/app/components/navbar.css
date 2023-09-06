@@ -43,7 +43,7 @@ width: 75%;
 
 @media (max-width:768px) {
   .btnmargin{
- margin-bottom: 50px !important;
+ margin-bottom: 100px !important;
   }
   .position-card{
     position: absolute;
