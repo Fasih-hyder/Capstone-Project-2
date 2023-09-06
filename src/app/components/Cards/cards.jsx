@@ -6,7 +6,7 @@ import proprty3 from "../../assests/Third.svg";
 import proprty4 from "../../assests/Fourth.svg";
 import proprty5 from "../../assests/Fifth.svg";
 import proprty6 from "../../assests/Sixth.svg";
-import Car1 from "../../assests/car.svg";
+import Car1 from "../../assests/CARS1.svg";
 import bath from "../../assests/Bathtub.svg";
 import arow from "../../assests/ArrowsOut.svg";
 import jane from "../../assests/motu.svg";
